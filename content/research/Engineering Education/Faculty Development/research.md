@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Faculty Development
-permalink: 
+permalink: /research/Engineering Education/Faculty Development/
 ---
 
 ## Funded Competitive Grants
