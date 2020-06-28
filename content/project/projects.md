@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+permalink: /project/
+---
+
 ## Funded Competitive Grants
 
 1. *Principal Investigator (Co-PI: P. Pennathur and N. Bowman)*, Minority undergraduate engineering students at UI: Characterizing their successes and struggles with a research-based, data-driven approach," __Diversity Council, College of Engineering, University of Iowa__, 10/15/19-Present, **$ 5000**, Funded and Current.
